@@ -1,5 +1,5 @@
 ### Introduction to NLP
-** Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) and computational linguistics that focuses on enabling machines to understand, interpret, and generate human language. It bridges the gap between human communication and computer understanding, allowing machines to perform tasks like translation, sentiment analysis, summarization, and more.**
+**Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) and computational linguistics that focuses on enabling machines to understand, interpret, and generate human language. It bridges the gap between human communication and computer understanding, allowing machines to perform tasks like translation, sentiment analysis, summarization, and more.**
 
 **Key Goals of NLP:**
 
